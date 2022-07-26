@@ -10,7 +10,7 @@
 
 **Turma**: 10A
 
-Link do repositório GitHub: 
+Link do repositório GitHub: https://github.com/ValterGN/EFC1.git
 
 ● O trabalho deve ser feito em grupos de no máximo 2 componentes (todos devem enviar a atividade no Campus Virtual)
 
